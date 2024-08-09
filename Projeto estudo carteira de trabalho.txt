@@ -1,0 +1,34 @@
+Projeto estudo carteira de trabalho
+
+
+Link da base de dados: https://empregabrasil.mte.gov.br/dados-ctps/
+
+Link consulta categorias de gerações: https://pontaltech.com.br/blog/marketing/geracoes-x-y-z-alpha-beta/
+
+Link estilização Power Bi -> https://www.youtube.com/watch?v=hmjmWMzrZJ0&t=1762s
+
+htmlcolorcodes.com/color-chart/
+
+Cores:
+Masculino: #FD79A8
+Feminino: #1D2E53
+
+Categoria Raça
+Branco: #148030
+Pardo: #382258
+Preto: #808080
+Amarelo:#AD3480
+
+Categoria Gerações:
+X:#27ae60
+Y:#3498db
+Z:#f1c40f
+Baby Boomers:#e74c3c
+
+Categorias Estado Civil
+Solteiro: #3498db
+Casado: #27ae60
+Divorciado: #e67e22
+N/A: #e74c3c
+
+
